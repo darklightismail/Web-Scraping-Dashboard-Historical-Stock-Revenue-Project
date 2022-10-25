@@ -1,4 +1,4 @@
-# Web-Scraping-EDA-Dashboard-Historical-Stock-Revenue-Project
+# Web-Scraping-Dashboard-Historical-Stock-Revenue-Project
 
 
 # Extracting and Visualizing Stock Data

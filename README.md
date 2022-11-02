@@ -1,4 +1,4 @@
-# Web-Scraping-Dashboard-Historical-Stock-Revenue-Project
+# Web-Scraping-Tesla-Dashboard-Historical-Stock-Revenue-Project
 
 
 # Extracting and Visualizing Stock Data
